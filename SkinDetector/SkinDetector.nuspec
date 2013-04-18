@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Yann ROBIN</authors>
+    <owners>Yann ROBIN</owners>
+	<tags>opencv nudity detector nude skin</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+		Simple C# library to detect percentage of skin in image. It use opencv and OpenCVSharp to do this (CvAdaptiveSkinDetector).
+	</description>
+    <copyright>Copyright 2011</copyright>
+	<projectUrl>https://github.com/Youscribe/SkinDetector/</projectUrl>
+  </metadata>
+</package>
