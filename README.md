@@ -7,3 +7,6 @@ This library need native opencv dll (version 2.4.0). To install it on windows I 
 cinst OpenCV
 You will then need to add the dll path to your environement path :
 set PATH=%PATH%;C:\OpenCV240\opencv\build\x86\vc10\bin
+
+OpenCV website : http://opencv.org
+OpenCVSharp website : https://code.google.com/p/opencvsharp/
