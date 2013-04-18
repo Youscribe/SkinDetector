@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinDetector", "SkinDetector\SkinDetector.csproj", "{50E15E86-0E1A-4A30-A9CF-4EFC011E8282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.SkinDetector", "Sample.SkinDetector\Sample.SkinDetector.csproj", "{DA7E8889-FF67-41FF-859D-664F5F7F431D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50E15E86-0E1A-4A30-A9CF-4EFC011E8282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E15E86-0E1A-4A30-A9CF-4EFC011E8282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E15E86-0E1A-4A30-A9CF-4EFC011E8282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E15E86-0E1A-4A30-A9CF-4EFC011E8282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7E8889-FF67-41FF-859D-664F5F7F431D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7E8889-FF67-41FF-859D-664F5F7F431D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7E8889-FF67-41FF-859D-664F5F7F431D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7E8889-FF67-41FF-859D-664F5F7F431D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
