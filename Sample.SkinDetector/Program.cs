@@ -2,9 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Sample.SkinDetector
 {
@@ -17,7 +15,7 @@ namespace Sample.SkinDetector
             if (args.Length > 0)
                 path = args[0];
 
-            var files = Enumerable.Empty<string>();
+            var files = new string[0];
             FileAttributes attr = File.GetAttributes(path);
 
             //detect whether its a directory or file
